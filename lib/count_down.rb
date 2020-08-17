@@ -1,6 +1,7 @@
-num = 10 
-while num < 0
+counter = 10 
+while num >=1
 do
-  puts num
-  num-1
+  puts counter
+  counter -= 1
 end
+puts "Happy New Year!"
